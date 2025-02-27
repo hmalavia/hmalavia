@@ -1,6 +1,6 @@
 - 👋 Hi, Welcome to my github
 - Here's some stuff I built.
-- 📫 How to reach out to me @ hmalavia2@gmail.com
+- Reach out to me @ hmalavia2@gmail.com
 
 <!---
 hmalavia/hmalavia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
