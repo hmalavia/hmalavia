@@ -1,6 +1,6 @@
-- 👋 Hi, Welcome to my github
+- 👋 Hi, Welcome to my github. I am a data scientist with a life sciences background.
 - Here's some stuff I built.
-- Reach out to me @ hmalavia2@gmail.com
+- If you are biologist trying to automate mundane tasks and need some help reach out to me @ hmalavia2@gmail.com.
 
 <!---
 hmalavia/hmalavia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
